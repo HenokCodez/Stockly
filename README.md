@@ -20,8 +20,8 @@ Stockly is your modern online store for essentials, trends, and unique finds—a
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/HenokCodez/Stockly.git
+cd Stockly
 ```
 
 Install dependencies:
