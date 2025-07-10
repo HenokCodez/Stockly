@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --color-bg: #ffffff;
+  --color-text: #000000;
+  --color-emphasis: #ef4444;
+  --color-subtle: #6b7280;
+}
+
+.dark {
+  --color-bg: #000000;
+  --color-text: #ffffff;
+  --color-emphasis: #f87171;
+  --color-subtle: #9ca3af;
+}
+
+body {
+  font-family: "Orbitron", sans-serif;
+}
